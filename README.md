@@ -51,6 +51,22 @@ pagesProject/
 
 ## Screenshots
 
-| Home | About | News | Contact |
-|------|-------|------|---------|
-| <img src="images/django1.png" alt="Home" width="500"/> | <img src="images/django2.png" alt="About" width="500"/> | <img src="images/django3.png" alt="News" width="500"/> | <img src="images/django4.png" alt="Contact" width="500"/> |
+<details>
+<summary>Home</summary>
+<img src="images/django1.png" alt="Home" width="700"/>
+</details>
+
+<details>
+<summary>About</summary>
+<img src="images/django2.png" alt="About" width="700"/>
+</details>
+
+<details>
+<summary>News</summary>
+<img src="images/django3.png" alt="News" width="700"/>
+</details>
+
+<details>
+<summary>Contact</summary>
+<img src="images/django4.png" alt="Contact" width="700"/>
+</details>
