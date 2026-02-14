@@ -51,11 +51,6 @@ pagesProject/
 
 ## Screenshots
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="images/django1.png" alt="Screenshot 1" width="600" style="display: inline-block; margin-right: 10px;" />
-  <img src="images/django2.png" alt="Screenshot 2" width="600" style="display: inline-block; margin-right: 10px;" />
-  <img src="images/django3.png" alt="Screenshot 3" width="600" style="display: inline-block; margin-right: 10px;" />
-  <img src="images/django4.png" alt="Screenshot 3" width="600" style="display: inline-block; margin-right: 10px;" />
-</div>
-
-> Add your screenshots to the `images/` folder and update the filenames above.
+| Home | About | News | Contact |
+|------|-------|------|---------|
+| <img src="images/django1.png" alt="Home" width="500"/> | <img src="images/django2.png" alt="About" width="500"/> | <img src="images/django3.png" alt="News" width="500"/> | <img src="images/django4.png" alt="Contact" width="500"/> |
